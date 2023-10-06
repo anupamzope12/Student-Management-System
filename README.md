@@ -1,1 +1,1 @@
-# Studnet-Management-System
+# Student-Management-System
